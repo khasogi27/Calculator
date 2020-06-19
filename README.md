@@ -1,2 +1,2 @@
 # Calculator
-[demo]{https://khasogi27.github.io/Calculator/}
+[DEMO](https://khasogi27.github.io/Calculator/)
